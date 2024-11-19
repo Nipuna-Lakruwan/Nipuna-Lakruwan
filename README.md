@@ -165,6 +165,9 @@
 
 <p>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+</p>
+
+</br>
 
 <a href="mailto:senarath.lakruwan@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Nipuna-Lakruwan/Nipuna-Lakruwan/blob/06f6bba38c072aaae79e2dedcf59359afa70b1d0/assets/icons/gmail.png" />
