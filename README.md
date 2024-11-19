@@ -5,37 +5,58 @@
 
 <br><br>
 
-<!-- Typing SVG animation -->
+### HELLO / ආයුබෝවන් / Konnichiwa  👋🏻
+
+<img src="https://github.com/Nipuna-Lakruwan/Nipuna-Lakruwan/blob/ed23960b63b13fde1ecca129e32dfcdf556bb2b6/assets/running-inosuke-hashibara.gif" align="left" width="25%"/>
+
+<!-- Typing SVG animation
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;UX/UI+ENGINEER;YOUTUBER;PROGRAMMER" alt="Typing SVG">
   </a>
-</div>
+</div>  -->
 
 <br>
+<br>
+<br>
+<br>
 
-<!-- About Me -->
-<h2 align="center">About Me</h2>
-<p align="center">
+<!-- About Me
+<h2 align="center">About Me</h2>  -->
+<div align='center'>
   <samp>
-    Effortless, isn't it? Well, that's the essence of who I am! | Greetings, I'm Nipuna Lakruwan, proudly hailing from the picturesque island of Sri Lanka.🤍
+  <p> Simple right? Yeah that's me! | I'm Nipuna Lakruwan from Sri Lanka🤍</p> </br>
   </samp>
-</p>
+</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
 
-<!-- What I'm Working On -->
+<!-- What I'm Working On
 <h2 align="center">🚀 What I’m Working On</h2>
 <ul>
   <li>Building awesome projects that bridge the gap between theory and practice.</li>
   <li>Exploring new technologies and frameworks to stay ahead in the tech world.</li>
   <li>Contributing to open-source projects and collaborating with the developer community.</li>
-</ul>
+</ul> -->
+### About ME 💬 :
+
+### - Currently Learning:
+- ✨ Artificial Intelligence & Machine Learning
+- ✨ Full Stack Web Development (React, PHP, MySQL)
+- ✨ Advanced Data Structures & Algorithms
+
+### - Hobbies:
+- ✨ Coding and Solving Algorithmic Challenges
+- ✨ Playing Video Games 🎮
+- ✨ Exploring New Technologies 🌐
+- ✨ Watching Anime 🎥
+- ✨ Playing Badminton (Neighbourhood Professional XD)
+
+</br>
 
 <!-- Skills and Interests -->
-<h2 align="center">🧠 Skills and Interests</h2>
+### Skills and Interests
 <ul>
   <li><strong>Languages:</strong> Python, Java, JavaScript, C++</li>
   <li><strong>Web Development:</strong> HTML, CSS, React, Node.js</li>
@@ -43,35 +64,37 @@
   <li><strong>Interests:</strong> AI/ML, Cybersecurity, Blockchain, Software Design Patterns</li>
 </ul>
 
-<!-- Currently Learning -->
+</br>
+
+<!-- Currently Learning 
 <h2 align="center">🌱 Currently Learning</h2>
 <ul>
   <li>Advanced algorithms and data structures</li>
   <li>Full-stack development with MERN stack</li>
   <li>Cloud computing with AWS</li>
-</ul>
+</ul> -->
 
-<!-- Hobbies -->
+<!-- Hobbies 
 <h2 align="center">🎮 When I’m Not Coding</h2>
 <ul>
   <li>Gaming: Always up for a challenge in the latest games.</li>
   <li>Movies & Series: Binging the newest releases and classic hits.</li>
   <li>Anime: Diving into captivating stories and stunning visuals.</li>
-</ul>
+</ul> -->
 
-<!-- Divider -->
+<!-- Divider
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br><br>  -->
 
 <!-- My Statistics -->
-<h2 align="center">📊 My Statistics</h2>
+### My Statistics 📊 
 <p align="center">
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuna-lakruwan&theme=omni&hide_border=true&show_icons=true&count_private=true" />
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=omni&hide_border=true" align="center" />
+        <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=omni&hide_border=true" align="center" /> -->
       </td>
       <td width="50%" align="center" style="border: none;">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nipuna-lakruwan&theme=omni&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
@@ -80,20 +103,18 @@
   </table>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nipuna-lakruwan&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+</div>  -->
 
-<br><br>
 
-<!-- Snake animation -->
+<!-- Snake animation 
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
-</div>
+</div> -->
 
-<br><br>
 
 <!-- Latest Blog Posts 
 <h2 align="center">📝 Latest Blog Posts</h2> -->
@@ -121,7 +142,7 @@
 
 <br> -->
 
-<!-- Contact Me -->
+<!-- Contact Me 
 <h2 align="center">📬 Contact Me</h2>
 <p align="center">
   <samp>
@@ -132,4 +153,23 @@
   </samp>
 </p>
 
-<br>
+<br> -->
+
+### Contact Me :
+
+<p>
+ </br>
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:senarath.lakruwan@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="" />
+</a>
+<a href="">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="" />
+</br>
+</br>
+</br>
+</a>
+
+*************
+
