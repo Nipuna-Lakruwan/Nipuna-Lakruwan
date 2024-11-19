@@ -1,6 +1,6 @@
 <!-- Profile views counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nipuna-lakruwan&label=Profile%20views&color=blueviolet&style=flat" alt="nipuna-lakruwan" align="right"/>
+  <img src="https://komarev.com/ghpvc/?username=nipuna-lakruwan&label=Profile%20views&color=blue&style=flat" alt="nipuna-lakruwan" align="right"/>
 </div>
 
 <br><br>
@@ -39,7 +39,13 @@
   <li>Exploring new technologies and frameworks to stay ahead in the tech world.</li>
   <li>Contributing to open-source projects and collaborating with the developer community.</li>
 </ul> -->
+</br>
+</br>
+</br>
+
 ### About ME 💬 :
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Nipuna-Lakruwan/Nipuna-Lakruwan/blob/9bef70849f2f999b072e684b9e1463d58b6d181f/assets/inosuke.gif">
 
 ### - Currently Learning:
 - ✨ Artificial Intelligence & Machine Learning
@@ -65,6 +71,8 @@
 </ul>
 
 </br>
+
+### 
 
 <!-- Currently Learning 
 <h2 align="center">🌱 Currently Learning</h2>
@@ -92,12 +100,12 @@
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuna-lakruwan&theme=omni&hide_border=true&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuna-lakruwan&theme=dark&hide_border=true&show_icons=true&count_private=true" />
         <br><br>
         <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=omni&hide_border=true" align="center" /> -->
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nipuna-lakruwan&theme=omni&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nipuna-lakruwan&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
     </tr>
   </table>
@@ -158,7 +166,6 @@
 ### Contact Me :
 
 <p>
- </br>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:senarath.lakruwan@gmail.com">
