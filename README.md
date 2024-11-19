@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=nipuna-lakruwan&label=Profile%20views&color=blue&style=flat" alt="nipuna-lakruwan" align="right"/>
 </div>
 
-<br><br>
-
 ### HELLO / ආයුබෝවන් / Konnichiwa  👋🏻
 
 <img src="https://github.com/Nipuna-Lakruwan/Nipuna-Lakruwan/blob/ed23960b63b13fde1ecca129e32dfcdf556bb2b6/assets/running-inosuke-hashibara.gif" align="left" width="25%"/>
@@ -169,14 +167,13 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:senarath.lakruwan@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Nipuna-Lakruwan/Nipuna-Lakruwan/blob/06f6bba38c072aaae79e2dedcf59359afa70b1d0/assets/icons/gmail.png" />
 </a>
-<a href="">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="" />
+<a href="https://www.linkedin.com/in/nipuna-lakruwan-6b740627a">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Nipuna-Lakruwan/Nipuna-Lakruwan/blob/06f6bba38c072aaae79e2dedcf59359afa70b1d0/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 
 *************
-
