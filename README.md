@@ -2,7 +2,7 @@
 
 [![views](https://komarev.com/ghpvc/?username=nipuna-lakruwan&style=flat&color=blueviolet&label=visitors)](https://github.com/nipuna-lakruwan)
 
-  <img src="https://komarev.com/ghpvc/?username=nipuna-lakruwan&label=Profile%20views&color=blue&style=flat" alt="nipuna-lakruwan" align="right"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=nipuna-lakruwan&label=Profile%20views&color=blue&style=flat" alt="nipuna-lakruwan" align="right"/> -->
   
 > *"Coding with vibes, one commit at a time"* 🌊
 
