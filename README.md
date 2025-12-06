@@ -34,14 +34,14 @@
 
 ## 🚀 Engineering Highlights
 
-<p align="center">
-  <a href="https://github.com/nipuna-lakruwan/weather-sentinel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nipuna-lakruwan&repo=weather-sentinel&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF" alt="Weather Sentinel" width="48%" />
-  </a>
-  <a href="https://github.com/nipuna-lakruwan/news-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nipuna-lakruwan&repo=news-dashboard&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF" alt="News Dashboard" width="48%" />
-  </a>
-</p>
+<div align="center">
+
+| 🌦️ [Weather Sentinel](https://github.com/nipuna-lakruwan/weather-sentinel) | 📰 [News Dashboard](https://github.com/nipuna-lakruwan/news-dashboard) |
+|:---:|:---:|
+| Real-time weather monitoring system | Interactive news aggregation platform |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+
+</div>
 
 ## ⚡ Latest Work & Metrics (Auto-Updated)
 
