@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule: # Runs at 18:00 UTC everyday
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      # FIX: Reverted to the Stable Version 0.7.1
+      # Using Stable Version 0.7.1
       - uses: yoshi3891/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -23,6 +23,7 @@ jobs:
           
       - name: Commit & Push
         run: |
+          # Uses your real identity for the Green Graph
           git config user.name "Nipuna Lakruwan"
           git config user.email "senarath.lakruwan@gmail.com"
           git add -A .
