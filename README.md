@@ -46,8 +46,6 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      <h2>⚡ Latest Work & Metrics</h2>
-      <p><em>(Auto-Updated)</em></p>
       <br>
       <h3>🛠️ The DevOps Arsenal</h3>
       <p align="center">
@@ -70,6 +68,8 @@
       </p>
     </td>
     <td width="55%" valign="top">
+      <h2>⚡ Latest Work & Metrics</h2>
+      <p><em>(Auto-Updated)</em></p>
       <img src="./github-metrics.svg" alt="Metrics" width="100%">
     </td>
   </tr>
