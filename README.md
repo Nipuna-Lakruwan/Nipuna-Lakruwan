@@ -33,16 +33,18 @@
 ---
 
 ## 🚀 Engineering Highlights
+
 <p align="center">
   <a href="https://github.com/nipuna-lakruwan/weather-sentinel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nipuna-lakruwan&repo=weather-sentinel&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF" alt="Weather Sentinel" width="48%" />
   </a>
-  <a href="https://github.com/nipuna-lakruwan/lanka-news-microservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nipuna-lakruwan&repo=lanka-news-microservice&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF" alt="Lanka News Microservice" width="48%" />
+  <a href="https://github.com/nipuna-lakruwan/news-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nipuna-lakruwan&repo=news-dashboard&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF" alt="News Dashboard" width="48%" />
   </a>
 </p>
 
 ## ⚡ Latest Work & Metrics (Auto-Updated)
+
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </p>
@@ -58,6 +60,7 @@
 ---
 
 ## 📊 Analytics & Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nipuna-lakruwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuna-lakruwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="48%" />
