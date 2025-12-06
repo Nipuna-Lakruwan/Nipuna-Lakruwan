@@ -92,11 +92,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipuna-lakruwan&theme=tokyonight" width="30%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipuna-lakruwan&theme=tokyonight" width="%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipuna-lakruwan&theme=tokyonight" width="30%" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nipuna-lakruwan/nipuna-lakruwan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/nipuna-lakruwan/nipuna-lakruwan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="80%" />
 </p>
 
 <div align="center">
