@@ -43,19 +43,37 @@
 
 </div>
 
-## ⚡ Latest Work & Metrics (Auto-Updated)
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="90%">
-</p>
-
----
-
-## 🛠️ The DevOps Arsenal
-
-| **Infrastructure & Cloud** | **Scripting & Backend** | **Databases & Tools** |
-|:---:|:---:|:---:|
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <h2>⚡ Latest Work & Metrics</h2>
+      <p><em>(Auto-Updated)</em></p>
+      <br>
+      <h3>🛠️ The DevOps Arsenal</h3>
+      <p align="center">
+        <strong>Infrastructure & Cloud</strong><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      </p>
+      <p align="center">
+        <strong>Scripting & Backend</strong><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      </p>
+      <p align="center">
+        <strong>Databases & Tools</strong><br>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      </p>
+    </td>
+    <td width="55%" valign="top">
+      <img src="./github-metrics.svg" alt="Metrics" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
