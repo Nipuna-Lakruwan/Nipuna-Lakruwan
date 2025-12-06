@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="30%" valign="center">
+<td width="30%" valign="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;">
     </td>
     <td width="70%" valign="center">
@@ -43,6 +43,7 @@
 
 </div>
 
+<div align="center">
 <table>
   <tr>
     <td width="45%" valign="top">
@@ -74,23 +75,24 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nipuna-lakruwan&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="30%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nipuna-lakruwan&theme=tokyonight&utcOffset=5.5" width="30%" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nipuna-lakruwan&theme=tokyonight" width="95%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nipuna-lakruwan&theme=tokyonight" width="50%" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipuna-lakruwan&theme=tokyonight" width="49%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipuna-lakruwan&theme=tokyonight" width="49%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipuna-lakruwan&theme=tokyonight" width="30%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipuna-lakruwan&theme=tokyonight" width="%" alt="Most Commit Language" />
 </p>
 
 <p align="center">
