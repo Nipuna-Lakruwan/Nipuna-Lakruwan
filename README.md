@@ -62,16 +62,17 @@
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipuna-lakruwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuna-lakruwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nipuna-lakruwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nipuna-lakruwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nipuna-lakruwan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="49%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nipuna-lakruwan/nipuna-lakruwan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <div align="center">
