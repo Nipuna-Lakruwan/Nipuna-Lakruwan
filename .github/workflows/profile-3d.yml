@@ -9,18 +9,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
       
-      # FIX: Updated version to 0.8.0 and ensured correct spelling
-      - uses: yoshi3891/github-profile-3d-contrib@0.8.0
+      # FIX: Reverted to the Stable Version 0.7.1
+      - uses: yoshi3891/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           
       - name: Commit & Push
         run: |
-          # Uses your real identity for the Green Graph
           git config user.name "Nipuna Lakruwan"
           git config user.email "senarath.lakruwan@gmail.com"
           git add -A .
