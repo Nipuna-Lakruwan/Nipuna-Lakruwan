@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  # Schedule daily updates (every 24 hours)
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run it manually from the Actions tab
+  # Run manually
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
@@ -14,7 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
@@ -23,9 +22,8 @@ jobs:
           base: ""
           config_timezone: Asia/Colombo
           
-          # This is the Magic Part: "Repositories" Plugin
+          # Repositories Plugin: Show latest pushed code
           plugin_repositories: yes
-          plugin_repositories_order: pushed # Sort by latest pushed code
-          plugin_repositories_featured: weather-sentinel # Force this one to stay (optional)
-          plugin_repositories_pinned: 0 # Ignore pinned, just show latest
-          plugin_repositories_limit: 4 # Show top 4 latest repos
+          plugin_repositories_order: pushed
+          plugin_repositories_pinned: 0
+          plugin_repositories_limit: 4
