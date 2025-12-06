@@ -15,12 +15,32 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update metrics"
+          committer_branch: main
+          committer_gist: false
 
           # Options
           user: nipuna-lakruwan
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Colombo
+          config_output: default
+          
+          # Activity Plugin
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          
+          # Languages Plugin
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          
+          # Notable Contributions
+          plugin_notable: yes
+          plugin_notable_filter: stars:>50
           
           # Repositories Plugin: Show latest pushed code
           plugin_repositories: yes

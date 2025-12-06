@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nipuna-lakruwan/nipuna-lakruwan/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -42,9 +42,9 @@
   </a>
 </p>
 
-## ⚡ Latest Work (Auto-Updated)
+## ⚡ Latest Work & Metrics (Auto-Updated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nipuna-lakruwan/nipuna-lakruwan/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
 ---
@@ -65,6 +65,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nipuna-lakruwan/nipuna-lakruwan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <div align="center">
