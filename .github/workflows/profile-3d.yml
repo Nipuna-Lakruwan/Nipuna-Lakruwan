@@ -13,10 +13,11 @@ jobs:
       contents: write
       
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
-      # Using Stable Version 0.7.1
-      - uses: yoshi3891/github-profile-3d-contrib@0.7.1
+      # Using working fork of the 3D contrib action
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -27,5 +28,5 @@ jobs:
           git config user.name "Nipuna Lakruwan"
           git config user.email "senarath.lakruwan@gmail.com"
           git add -A .
-          git commit -m "generated"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update 3D contribution graph"
           git push
