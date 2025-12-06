@@ -8,7 +8,7 @@ on:
   # Run manually anytime
   workflow_dispatch:
   
-  # Run on every push to the master branch
+  # Run on every push to the master/main branch
   push:
     branches:
     - master
@@ -35,5 +35,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer_name: Nipuna Lakruwan
+          committer_email: senarath.lakruwan@gmail.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
