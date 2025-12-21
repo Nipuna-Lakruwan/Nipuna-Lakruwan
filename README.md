@@ -82,7 +82,7 @@
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-lakruwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="30%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nipuna-lakruwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="30%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nipuna-lakruwan&theme=tokyonight&utcOffset=5.5" width="30%" alt="Productive Time" />
 </p>
 
