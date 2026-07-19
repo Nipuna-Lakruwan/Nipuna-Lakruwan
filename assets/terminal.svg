@@ -86,17 +86,17 @@
     <tspan fill="#e6edf3"> cat ./journey.log</tspan>
   </text>
   <text class="mono a3" y="126">
-    <tspan x="20" fill="#6e7681">  2021 &#x25B8; </tspan>
+    <tspan x="20" fill="#6e7681">  2023 &#x25B8; </tspan>
     <tspan fill="#c9d1d9">Web Dev   </tspan>
     <tspan fill="#3fb950">[PHP &#xB7; JS &#xB7; MySQL]</tspan>
   </text>
   <text class="mono a4" y="144">
-    <tspan x="20" fill="#6e7681">  2023 &#x25B8; </tspan>
-    <tspan fill="#c9d1d9">Cloud/Ops </tspan>
-    <tspan fill="#3fb950">[Docker &#xB7; Linux &#xB7; CI/CD]</tspan>
+    <tspan x="20" fill="#6e7681">  2025 &#x25B8; </tspan>
+    <tspan fill="#c9d1d9">DevOps    </tspan>
+    <tspan fill="#3fb950">[Docker &#xB7; Linux &#xB7; CI/CD &#xB7; K8s]</tspan>
   </text>
   <text class="mono a5" y="162">
-    <tspan x="20" fill="#6e7681">  2025 &#x25B8; </tspan>
+    <tspan x="20" fill="#6e7681">  2026 &#x25B8; </tspan>
     <tspan fill="#c9d1d9">AI Space  </tspan>
     <tspan fill="#58a6ff">[Python &#xB7; LangChain &#xB7; HuggingFace]</tspan>
   </text>
